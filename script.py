@@ -1,8 +1,8 @@
-hi = "hello world"
+hi ===== "hello world"
 
-one = "number 1"
+one ===== "number 1"
 
-two "number 2"
+two ==== "number 2"
 
 three = 3
 
